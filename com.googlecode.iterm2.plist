@@ -216,7 +216,7 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>1016 862 609 401 0 0 3008 1670 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>639 763 796 486 0 0 3360 1867 </string>
+	<string>1146 301 796 486 0 0 3360 1867 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 550 1477 627 0 0 3200 1777 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
@@ -1492,7 +1492,7 @@
 			<key>Send Code When Idle</key>
 			<false/>
 			<key>Shortcut</key>
-			<string>G</string>
+			<string>C</string>
 			<key>Silence Bell</key>
 			<true/>
 			<key>Sync Title</key>
@@ -2106,7 +2106,7 @@
 			<key>Send Code When Idle</key>
 			<false/>
 			<key>Shortcut</key>
-			<string></string>
+			<string>D</string>
 			<key>Silence Bell</key>
 			<true/>
 			<key>Sync Title</key>
@@ -2741,7 +2741,7 @@
 			<key>Send Code When Idle</key>
 			<false/>
 			<key>Shortcut</key>
-			<string>B</string>
+			<string>E</string>
 			<key>Silence Bell</key>
 			<true/>
 			<key>Sync Title</key>
@@ -3393,7 +3393,7 @@
 			<key>Send Code When Idle</key>
 			<false/>
 			<key>Shortcut</key>
-			<string>W</string>
+			<string>F</string>
 			<key>Silence Bell</key>
 			<true/>
 			<key>Smart Cursor Color</key>
@@ -4041,7 +4041,7 @@
 			<key>Send Code When Idle</key>
 			<false/>
 			<key>Shortcut</key>
-			<string>X</string>
+			<string>G</string>
 			<key>Silence Bell</key>
 			<true/>
 			<key>Smart Cursor Color</key>
@@ -4642,7 +4642,7 @@
 			<key>Send Code When Idle</key>
 			<false/>
 			<key>Shortcut</key>
-			<string>R</string>
+			<string>H</string>
 			<key>Silence Bell</key>
 			<false/>
 			<key>Sync Title</key>
@@ -5283,7 +5283,7 @@
 			<key>Send Code When Idle</key>
 			<false/>
 			<key>Shortcut</key>
-			<string></string>
+			<string>I</string>
 			<key>Silence Bell</key>
 			<true/>
 			<key>Sync Title</key>
@@ -5924,7 +5924,7 @@
 			<key>Send Code When Idle</key>
 			<false/>
 			<key>Shortcut</key>
-			<string></string>
+			<string>J</string>
 			<key>Silence Bell</key>
 			<true/>
 			<key>Sync Title</key>
